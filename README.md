@@ -1,7 +1,3 @@
-Got it! Here’s an updated **README** for your **Flappy Bird Clone** project, assuming it's made using **Java** rather than Python.
-
----
-
 # Flappy Bird Clone
 
 A simple **Flappy Bird** clone built using **Java** and **Swing** for the graphical user interface. In this game, you control a bird that must fly through moving pipes without hitting them. The objective is to get the highest score by passing through as many pipes as possible.
